@@ -13,7 +13,7 @@ Time and Place: Monday/Wednesday 9:05-10:20am in Fred Brooks 007 (FB007).
 
 Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures), includes two coding-based homeworks, 2 journal club style discussions, and a course project. 
 
-Office Hours: TBD. 
+Office Hours: Mondays 11-12 in SN305  
 
 Summary of FAQs: 
 
@@ -79,12 +79,19 @@ Every year the precise timing of getting through particular topics varies. Here 
 * end of april/ last week of class : project presentations and final writeups due.
 
 # Style for journal club collaboration meetings
-We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD).
+We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD). Attendance is mandatory for these sessions and your grade for this component will be based on attendance at both sessions and your presentation/participation in one of the presentations. 
 
-* Paper 1: Lymphoid gene expression supports neuroprotective microglia function
-* Paper 2: Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in chronic active multiple sclerosis lesions
+* Paper 1 (Feb 23): Lymphoid gene expression supports neuroprotective microglia function
+* Paper 2 (April 8): Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in chronic active multiple sclerosis lesions
 
 Roles: 
+We will divide the 75 minute session into 6 blocks of ~10 mins each. 
+* **Overview** : The role of this group os to provide an elevator pitch of the paper, including, 1) What was the problem address, 2) How was the problem studied (animal model or human cohort), 3) What kind of data were generated, 4) What was the main conclusion?
+* **Experimental Design** Choose at least three of the main figures in the paper and describe what kind of experiments were performed (either wet or dry lab)
+* **Methods Critique** What kinds of computational methods were used to analyze the data? How do they work and were they appropriate for the task?
+* **Code review** What kind of code was provided, how would you describe the reprodubility, what changes would you make?
+* **Grant proposal** What would be a follow-up or extension of this work that you think your team should recieve funding for?
+* **Full Professor** How do the findings of this work fit into the broader field and what are the implications of this work for human health? 
 
 <!---
 | Date | Topic | Reading | Notes | Code |
