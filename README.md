@@ -81,8 +81,8 @@ Every year the precise timing of getting through particular topics varies. Here 
 # Style for journal club collaboration meetings
 We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD). Attendance is mandatory for these sessions and your grade for this component will be based on attendance at both sessions and your presentation/participation in one of the presentations. 
 
-* Paper 1 (Feb 23): Lymphoid gene expression supports neuroprotective microglia function
-* Paper 2 (April 8): Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in chronic active multiple sclerosis lesions
+* Paper 1 (Feb 23): Lymphoid gene expression supports neuroprotective microglia function: https://www.nature.com/articles/s41586-025-09662-z#Sec1
+* Paper 2 (April 8): Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in chronic active multiple sclerosis lesions : https://www.cell.com/immunity/fulltext/S1074-7613(25)00433-9
 
 Roles: 
 We will divide the 75 minute session into 6 blocks of ~10 mins each. 
