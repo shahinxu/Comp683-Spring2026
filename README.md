@@ -33,11 +33,40 @@ Please see the following link for a syllabus and information about key dates, ho
 # Topics and Tentative Schedule. 
 All topics, readings, homework, and lecture notes can be found here. 
 
-|Date| Topic | Reading | Notes | Code |
-|------| ------ | -------- | ------ | ----|
-Wednesday, January 7 | Introduction; Bioinformatics vs computational biology 
-Monday, January 12 | Linear algebra review, matrix rank, building graph representations of data| | | 
-Wednesday, January 14 | Graph diffusion and graph Laplacian | | | 
+| Date   | Day       | Topic                                                                             | Presenter       | Reading | Code |
+| ------ | --------- | --------------------------------------------------------------------------------- | --------------- |--------------| -----|          
+| Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         |
+| Jan 12 | Monday    | Linear algebra review; matrix rank, SVD, intro to graph representations           | Natalie         |
+| Jan 14 | Wednesday | Graph diffusion and deriving graph laplacian                                      | Natalie         |
+| Jan 19 | Monday    | Jan 19: MLK Jr. Day (Holiday)                                                     | \-              |
+| Jan 21 | Wednesday | Building graphs representations from data                                         | Natalie         |
+| Jan 26 | Monday    | Graph partitioning and clustering                                                 | Natalie         |
+| Jan 28 | Wednesday | Graph embedding                                                                   | Natalie         |
+| Feb 2  | Monday    | Single-cell data structure: CyTOF + scRNA-seq                                     | Natalie         |
+| Feb 4  | Wednesday | Automated cell-population discovery and pseudobulk representations                | Natalie         |
+| Feb 9  | Monday    | Feb 9: Well-being Day (No Class)                                                  | \-              |
+| Feb 11 | Wednesday | Imputation and drop-out in single-cell                                            | Natalie         |
+| Feb 16 | Monday    | Dimension reduction for single-cell visualization + single-cell data augmentation | Natalie         |
+| Feb 18 | Wednesday | Graph signal processing background                                                | Natalie         |
+| Feb 23 | Monday    | Journal club collaboration 1                                                      | All             |
+| Feb 25 | Wednesday | Differential abundance analysis via graph singal processing                       | Natalie         |
+| Mar 2  | Monday    | Differential abundance analysis via density dependent downsampling                | Natalie         |
+| Mar 4  | Wednesday | Differential abundance analysis 3 (Milo) and contrastive PCA                      | Natalie         |
+| Mar 9  | Monday    | Single-cell sketching 1                                                           | Natalie         |
+| Mar 11 | Wednesday | Single-cell sketching 2                                                           | Natalie         |
+| Mar 16 | Monday    | Spring Break (No Class)                                                           | \-              |
+| Mar 18 | Wednesday | Spring Break (No Class)                                                           | \-              |
+| Mar 23 | Monday    | Mapping trajectories in single-cell data                                          | Natalie or Alec |
+| Mar 25 | Wednesday | Project proposal presentations day 1                                              | All             |
+| Mar 30 | Monday    | Project proposal presentations day 2                                              | All             |
+| Apr 1  | Wednesday | Intro to spatial omics                                                            | Natalie         |
+| Apr 6  | Monday    | Graph neural networks vs label propagation                                        | Natalie         |
+| Apr 8  | Wednesday | Journal club day 2                                                                | All             |
+| Apr 13 | Monday    | Graph-based multiomics data integration                                           | Natalie         |
+| Apr 15 | Wednesday | Multiomics data integration via factor analysis                                   | Natalie         |
+| Apr 20 | Monday    | Technical writing and communication for computational biology                     | Natalie         |
+| Apr 22 | Wednesday | Final project presentations day 1                                                 | All             |
+| Apr 27 | Monday    | Final project presentations day 2                                                 | All             |
 
 <!---
 | Date | Topic | Reading | Notes | Code |
