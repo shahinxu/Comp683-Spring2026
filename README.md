@@ -68,6 +68,24 @@ All topics, readings, homework, and lecture notes can be found here.
 | Apr 22 | Wednesday | Final project presentations day 1                                                 | All             |
 | Apr 27 | Monday    | Final project presentations day 2                                                 | All             |
 
+# Key Dates and Milestones
+Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
+
+* Feb 23 : Journal club collaboration 1
+* End of February : Homework 1 due
+* Mid-march : project proposals.
+* April 8: Journal club collaboration 1
+* mid-April : homework 2 due
+* end of april/ last week of class : project presentations and final writeups due.
+
+# Style for journal club collaboration meetings
+We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD).
+
+* Paper 1: Lymphoid gene expression supports neuroprotective microglia function
+* Paper 2: Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in chronic active multiple sclerosis lesions
+
+Roles: 
+
 <!---
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
@@ -115,21 +133,5 @@ Here is a general overview of the topics for the semester.
 * Week 15 : Graph neural networks and convex optimization techniques
 * Week 16: Multiomics integration strategies
 
-# Key Dates and Milestones
-Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
 
-* Feb 23 : Journal club collaboration 1
-* End of February : Homework 1 due
-* Mid-march : project proposals.
-* April 8: Journal club collaboration 1
-* mid-April : homework 2 due
-* end of april/ last week of class : project presentations and final writeups due.
-
-# Style for journal club collaboration meetings
-We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD).
-
-* Paper 1: Lymphoid gene expression supports neuroprotective microglia function
-* Paper 2: Single-cell spatial transcriptomic profiling defines a pathogenic inflammatory niche in chronic active multiple sclerosis lesions
-
-Roles: 
 
