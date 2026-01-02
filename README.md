@@ -35,7 +35,7 @@ All topics, readings, homework, and lecture notes can be found here.
 
 | Date   | Day       | Topic                                                                             | Presenter       | Reading | Code |
 | ------ | --------- | --------------------------------------------------------------------------------- | --------------- |--------------| -----|          
-| Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         |
+| Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         | [[Brain aging and rejuventation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)]
 | Jan 12 | Monday    | Linear algebra review; matrix rank, SVD, intro to graph representations           | Natalie         |
 | Jan 14 | Wednesday | Graph diffusion and deriving graph laplacian                                      | Natalie         |
 | Jan 19 | Monday    | Jan 19: MLK Jr. Day (Holiday)                                                     | \-              |
