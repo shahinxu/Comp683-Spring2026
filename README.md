@@ -33,9 +33,9 @@ Please see the following link for a syllabus and information about key dates, ho
 # Topics and Tentative Schedule. 
 All topics, readings, homework, and lecture notes can be found here. 
 
-| Date   | Day       | Topic                                                                             | Presenter       | Reading | Code |
+| Date   | Day       | Topic                                                                             | Presenter       | Reading | Notes |
 | ------ | --------- | --------------------------------------------------------------------------------- | --------------- |--------------| -----|          
-| Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         | [[Brain aging and rejuventation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)]
+| Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         | [[Brain aging and rejuventation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)] | [[Lecture 1](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture1_intro.pdf)]
 | Jan 12 | Monday    | Linear algebra review; matrix rank, SVD, intro to graph representations           | Natalie         |
 | Jan 14 | Wednesday | Graph diffusion and deriving graph laplacian                                      | Natalie         |
 | Jan 19 | Monday    | Jan 19: MLK Jr. Day (Holiday)                                                     | \-              |
