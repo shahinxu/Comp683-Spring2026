@@ -36,7 +36,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Date   | Day       | Topic                                                                             | Presenter       | Reading | Notes |
 | ------ | --------- | --------------------------------------------------------------------------------- | --------------- |--------------| -----|          
 | Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         | [[Brain aging and rejuventation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)] | [[Lecture 1](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture1_intro.pdf)]
-| Jan 12 | Monday    | Linear algebra review; matrix rank, SVD, intro to graph representations           | Natalie         | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)]| [[Lecture 2](X)]
+| Jan 12 | Monday    | Linear algebra review; matrix rank, SVD, intro to graph representations           | Natalie         | [[SLMP (open-source book) pages 10-22](https://arxiv.org/abs/2004.07984)]| [[Lecture 2](X)]
 | Jan 14 | Wednesday | Graph diffusion and deriving graph laplacian                                      | Natalie         |
 | Jan 19 | Monday    | Jan 19: MLK Jr. Day (Holiday)                                                     | \-              |
 | Jan 21 | Wednesday | Building graphs representations from data                                         | Natalie         |
