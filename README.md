@@ -37,13 +37,13 @@ All topics, readings, homework, and lecture notes can be found here.
 | ------ | --------- | --------------------------------------------------------------------------------- | --------------- |--------------| -----|          
 | Jan 7  | Wednesday | Introduction; bioinformatics vs computational biology                             | Natalie         | [[Brain aging and rejuventation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)] | [[Lecture 1](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture1_intro.pdf)]
 | Jan 12 | Monday    | Linear algebra review; matrix rank, SVD, intro to graph representations           | Natalie         | [[SLMP (open-source book) pages 10-22](https://arxiv.org/abs/2004.07984)]| [[Lecture 2](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture2.pdf)]
-| Jan 14 | Wednesday | Graph diffusion and deriving graph laplacian                                      | Natalie         |
+| Jan 14 | Wednesday | Graph diffusion to graph laplacian, building graphs from data                                      | Natalie         | [[Module Detection Benchmarking in Biological Data](https://www.nature.com/articles/s41592-019-0509-5)], [[leiden clustering](https://www.nature.com/articles/s41598-019-41695-z)] | [[Lecture 3]()]
 | Jan 19 | Monday    | Jan 19: MLK Jr. Day (Holiday)                                                     | \-              |
-| Jan 21 | Wednesday | Building graphs representations from data                                         | Natalie         |
-| Jan 26 | Monday    | Graph partitioning and clustering                                                 | Natalie         |
-| Jan 28 | Wednesday | Graph embedding                                                                   | Natalie         |
-| Feb 2  | Monday    | Single-cell data structure: CyTOF + scRNA-seq                                     | Natalie         |
-| Feb 4  | Wednesday | Automated cell-population discovery and pseudobulk representations                | Natalie         |
+| Jan 21 | Wednesday | Probabilistic graph partitioning and graph embedding                                         | Natalie         |
+| Jan 26 | Monday    | Single-cell data structure (CyTOF + scRNA-seq)                                                 | Natalie         |
+| Jan 28 | Wednesday | Automated cell-population discovery                                                                   | Natalie         |
+| Feb 2  | Monday    | Linking single-cell information to outcome                                     | Natalie         |
+| Feb 4  | Wednesday | Pseudobulk, and deconvolution for scRNA-seq                | Natalie         |
 | Feb 9  | Monday    | Feb 9: Well-being Day (No Class)                                                  | \-              |
 | Feb 11 | Wednesday | Imputation and drop-out in single-cell                                            | Natalie         |
 | Feb 16 | Monday    | Dimension reduction for single-cell visualization + single-cell data augmentation | Natalie         |
