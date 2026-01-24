@@ -40,9 +40,9 @@ All topics, readings, homework, and lecture notes can be found here.
 | Jan 14 | Wednesday | Graph diffusion to graph laplacian, building graphs from data                                      | Natalie         | [[Module Detection Benchmarking in Biological Data](https://www.nature.com/articles/s41592-019-0509-5)], [[leiden clustering](https://www.nature.com/articles/s41598-019-41695-z)] | [[Lecture 3](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture3.pdf)]
 | Jan 19 | Monday    | Jan 19: MLK Jr. Day (Holiday)                                                     | \-              |
 | Jan 21 | Wednesday | Probabilistic graph partitioning and graph embedding                                         | Natalie         | [[Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx)], [[SBM- spatial transcriptomics](https://pmc.ncbi.nlm.nih.gov/articles/PMC8630903/)] | [[Lecture 4](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture4.pdf)]
-| Jan 26 | Monday    | Single-cell data structure (CyTOF + scRNA-seq)                                                 | Natalie         |
-| Jan 28 | Wednesday | Automated cell-population discovery                                                                   | Natalie         |
-| Feb 2  | Monday    | Linking single-cell information to outcome                                     | Natalie         |
+| Jan 26 | Monday    | Classes cancelled                                                 | Natalie         |
+| Jan 28 | Wednesday | Graph embedding day 2 and single-cell data structure (CyTOF and scRNA-seq)                                                                   | Natalie         |
+| Feb 2  | Monday    | Autmoated cell population discovery and Linking single-cell information to outcome                                     | Natalie         |
 | Feb 4  | Wednesday | Pseudobulk, and deconvolution for scRNA-seq                | Natalie         |
 | Feb 9  | Monday    | Feb 9: Well-being Day (No Class)                                                  | \-              |
 | Feb 11 | Wednesday | Imputation and drop-out in single-cell                                            | Natalie         |
