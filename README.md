@@ -45,7 +45,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Feb 2 | Monday | Classes canceled | -| -|
 | Feb 4  | Wednesday    | Automated cell population discovery and Linking single-cell information to outcome  [[Journal club group signup by Feb 9](https://docs.google.com/document/d/1ECs2t-Ce8cUz9b87hDREHAYPFdit2oEHnsiUFw5r5dU/edit?usp=sharing)]                                   | Natalie         | [[Spade](https://www.nature.com/articles/nbt.1991)], [[Citrus](https://www.pnas.org/doi/abs/10.1073/pnas.1408792111)], [[phenograph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)] | [[Lecture 6](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture6.pdf)] |
 | Feb 9  | Monday    | Feb 9: Well-being Day (No Class)                                                  | \-              |
-| Feb 11 | Wednesday | Imputation and drop-out in single-cell                                            | Natalie         |
+| Feb 11 | Wednesday | Imputation and drop-out in single-cell                                            | Natalie         | [[MAGIC for dropout and imputation](https://www.cell.com/cell/pdf/S0092-8674(18)30724-4.pdf)] | [[Lecture 7](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture7.pdf)]
 | Feb 16 | Monday    | Dimension reduction for single-cell visualization + single-cell data augmentation | Natalie         |
 | Feb 18 | Wednesday | Graph signal processing background                                                | Natalie         |
 | Feb 23 | Monday    | Journal club collaboration 1                                                      | All             |
