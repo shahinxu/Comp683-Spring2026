@@ -47,7 +47,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Feb 9  | Monday    | Feb 9: Well-being Day (No Class)                                                  | \-              |
 | Feb 11 | Wednesday | Imputation and drop-out in single-cell                                            | Natalie         | [[MAGIC for dropout and imputation](https://www.cell.com/cell/pdf/S0092-8674(18)30724-4.pdf)] | [[Lecture 7](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture7.pdf)]
 | Feb 16 | Monday    | Dimension reduction for single-cell visualization + single-cell data augmentation | Natalie         | [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)] | [[Lecture 8](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture8.pdf)]
-| Feb 18 | Wednesday [Homework 1(https://github.com/natalies-teaching/Comp683-Spring2026/tree/main/Homework1)] due Wednesday March 4 | Finish data augmentation, Graph signal processing background                                                | Natalie         |
+| Feb 18 | Wednesday [[Homework 1](https://github.com/natalies-teaching/Comp683-Spring2026/tree/main/Homework1)] due Wednesday March 4 | Finish data augmentation, Graph signal processing background                                                | Natalie         |
 | Feb 23 | Monday    | Journal club collaboration 1                                                      | All             |
 | Feb 25 | Wednesday | Differential abundance analysis via graph singal processing                       | Natalie         |
 | Mar 2  | Monday    | Differential abundance analysis via density dependent downsampling                | Natalie         |
